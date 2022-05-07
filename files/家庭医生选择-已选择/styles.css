@@ -1,0 +1,118 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1296px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u291_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1280px;
+  height:720px;
+}
+#u291 {
+  position:absolute;
+  left:16px;
+  top:12px;
+  width:1280px;
+  height:720px;
+}
+#u292 {
+  position:absolute;
+  left:2px;
+  top:352px;
+  width:1276px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u293_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:216px;
+  height:219px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:2px;
+  border-style:solid;
+  border-color:rgba(255, 255, 255, 1);
+  border-radius:108px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u293 {
+  position:absolute;
+  left:957px;
+  top:299px;
+  width:216px;
+  height:219px;
+}
+#u294 {
+  position:absolute;
+  left:2px;
+  top:102px;
+  width:212px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u295 {
+  position:absolute;
+  left:964px;
+  top:311px;
+  width:203px;
+  height:196px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u296_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:137px;
+  height:54px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:2px;
+  border-style:solid;
+  border-color:rgba(255, 255, 255, 1);
+  border-radius:6px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u296 {
+  position:absolute;
+  left:73px;
+  top:114px;
+  width:137px;
+  height:54px;
+}
+#u297 {
+  position:absolute;
+  left:2px;
+  top:19px;
+  width:133px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u298 {
+  position:absolute;
+  left:80px;
+  top:120px;
+  width:122px;
+  height:42px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

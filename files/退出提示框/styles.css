@@ -1,0 +1,118 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1326px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u299_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1280px;
+  height:720px;
+}
+#u299 {
+  position:absolute;
+  left:46px;
+  top:32px;
+  width:1280px;
+  height:720px;
+}
+#u300 {
+  position:absolute;
+  left:2px;
+  top:352px;
+  width:1276px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u301_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:155px;
+  height:53px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:2px;
+  border-style:solid;
+  border-color:rgba(255, 255, 255, 1);
+  border-radius:6px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u301 {
+  position:absolute;
+  left:548px;
+  top:405px;
+  width:155px;
+  height:53px;
+}
+#u302 {
+  position:absolute;
+  left:2px;
+  top:18px;
+  width:151px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u303 {
+  position:absolute;
+  left:551px;
+  top:407px;
+  width:149px;
+  height:47px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u304_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:155px;
+  height:53px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:2px;
+  border-style:solid;
+  border-color:rgba(255, 255, 255, 1);
+  border-radius:6px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u304 {
+  position:absolute;
+  left:725px;
+  top:405px;
+  width:155px;
+  height:53px;
+}
+#u305 {
+  position:absolute;
+  left:2px;
+  top:18px;
+  width:151px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u306 {
+  position:absolute;
+  left:728px;
+  top:407px;
+  width:149px;
+  height:47px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
